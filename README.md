@@ -98,9 +98,3 @@ I’m Kunal Patil, a **Researcher at IIT Madras** and a **Medical Imaging** enth
 </p>
 
 ---
-
-
-- **Typing SVG**: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)  
-- **GitHub Contribution Snake**: [Platane/snk](https://github.com/Platane/snk)
-
----
