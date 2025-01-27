@@ -87,8 +87,7 @@ I’m Kunal Patil, a **Researcher at IIT Madras** and a **Medical Imaging** enth
 </p>
 
 <p align="center">
-  <!-- Updated handshake GIF link -->
-  <img src="https://media.giphy.com/media/KcUgqunFquZRBLLXxB/giphy.gif" width="100" alt="Handshake" />
+ <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100" alt="Handshake" />
 </p>
 
 ---
