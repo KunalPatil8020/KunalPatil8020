@@ -75,6 +75,13 @@ I’m Kunal Patil, a **Researcher at IIT Madras** and a **Medical Imaging** enth
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KunalPatil8020/KunalPatil8020/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
 ## 🤝 Connect with Me
 
 <p align="center">
