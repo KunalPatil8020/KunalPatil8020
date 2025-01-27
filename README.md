@@ -2,7 +2,7 @@
   <summary>
     <h1 align="center">
       <!-- Updated typing SVG service domain -->
-      <img src="https://readme-typing-svg.demolab.com?size=30&color=F70000&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Kunal+Patil;Researcher+%26+AI+Enthusiast;LLM+%26+Gen+AI+Explorer;" />
+      <img src="https://readme-typing-svg.demolab.com?size=30&color=F70000&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Kunal+Patil;Researcher+%26+AI+Enthusiast;" />
     </h1>
   </summary>
 </details>
