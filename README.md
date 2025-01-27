@@ -67,19 +67,6 @@ I’m Kunal Patil, a **Researcher at IIT Madras** and a **Medical Imaging** enth
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalPatil8020&layout=compact&theme=radical" alt="Top Languages" height="175" />
 </p>
 
-<p align="center">
-  <!-- The snake animation requires a special GitHub Actions workflow; 
-       You would need to set up the workflow in your own repo to generate the .svg -->
-  <img src="https://github.com/KunalPatil8020/KunalPatil8020/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KunalPatil8020/KunalPatil8020/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
 ## 🤝 Connect with Me
