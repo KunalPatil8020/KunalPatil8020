@@ -1,13 +1,15 @@
 <details open>
   <summary>
     <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?size=30&color=F70000&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Kunal+Patil;Researcher+%26+AI+Enthusiast;LLM+%26+Gen+AI+Explorer;">
+      <!-- Updated typing SVG service domain -->
+      <img src="https://readme-typing-svg.demolab.com?size=30&color=F70000&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Kunal+Patil;Researcher+%26+AI+Enthusiast;LLM+%26+Gen+AI+Explorer;" />
     </h1>
   </summary>
 </details>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngK4Up/giphy.gif" width="200" alt="Animated Robot" />
+  <!-- Updated robot GIF link -->
+  <img src="https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif" width="200" alt="Animated Robot" />
 </p>
 
 ---
@@ -53,8 +55,8 @@ I’m Kunal Patil, a **Researcher at IIT Madras** and a **Medical Imaging** enth
 | **Languages**     | ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) |
 | **AI/ML**         | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
 | **Data Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=NumPy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) |
-| **Databases**     | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)                                                                 |
-| **Others**        | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?logo=LaTeX&logoColor=white)                                                                |
+| **Databases**     | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)                                                                                                          |
+| **Others**        | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?logo=LaTeX&logoColor=white)                                                                       |
 
 ---
 
@@ -85,7 +87,8 @@ I’m Kunal Patil, a **Researcher at IIT Madras** and a **Medical Imaging** enth
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100" alt="Handshake" />
+  <!-- Updated handshake GIF link -->
+  <img src="https://media.giphy.com/media/KcUgqunFquZRBLLXxB/giphy.gif" width="100" alt="Handshake" />
 </p>
 
 ---
@@ -94,5 +97,11 @@ I’m Kunal Patil, a **Researcher at IIT Madras** and a **Medical Imaging** enth
   <em>“Innovation at the intersection of AI and Healthcare — driving a healthier tomorrow.”</em><br/>
   <strong>Thank you for visiting my profile! Let's create the future together.</strong>
 </p>
+
+---
+
+
+- **Typing SVG**: [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)  
+- **GitHub Contribution Snake**: [Platane/snk](https://github.com/Platane/snk)
 
 ---
