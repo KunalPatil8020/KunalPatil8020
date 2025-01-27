@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-I am passionate about *embedded systems, **artificial intelligence, and **medical imaging*. My work bridges technology and healthcare to create impactful solutions, from real-time IoT systems to advanced imaging tools. I have experience in both academic research and industrial projects, including mobile and web app development, firmware design, and image reconstruction algorithms.
+Hi there! I'm Kunal Patil, a researcher and engineer with a passion for leveraging cutting-edge technology to solve real-world problems in healthcare. My journey spans from pioneering medical imaging and AI-powered diagnostics solutions to designing embedded systems and IoT devices that bridge the gap between innovation and societal impact. With experience in both academic research and industrial applications, my expertise includes developing advanced imaging tools, creating real-time systems, and crafting intelligent algorithms to push the boundaries of what technology can achieve.
 
 ## 🧪 Research Interests  
 
